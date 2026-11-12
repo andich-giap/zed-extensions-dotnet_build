@@ -1,0 +1,9 @@
+[
+	{
+		"label": "dotnet build",
+		"command": "dotnet build",
+		"use_new_terminal": true,
+		"reveal": "always",
+		"save": "all"
+	}
+]

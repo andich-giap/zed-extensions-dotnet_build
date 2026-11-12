@@ -1,0 +1,11 @@
+id = "dotnet-build-task"
+name = "Dotnet Build Task"
+version = "0.1.0"
+schema_version = 1
+authors = ["Your Name <you@example.com>"]
+description = "Provides a task to run 'dotnet build'."
+repository = "https://github.com/your-name/dotnet-build-task"
+
+[grammars.csharp]
+repository = "https://github.com/andich-giap/zed-extensions-dotnet_build"
+rev = "a3c9c6e6b5e6e6e6e6e6e6e6e6e6e6e6e6e6e6e6"
